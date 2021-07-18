@@ -1,40 +1,14 @@
-<h1>Curso Ignite - Trilha ReactJS</h1>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-<p align="left"> 
-  Esse é o repositório onde guardo os arquivos, anotações e projetos do curso Ignite da Rocketseat.
+<img alt="Ignite" src="https://i.imgur.com/eCVyxxy.png">
+<h2 align="center">
+  Ignite - Trilha ReactJS
+</h2>
+<p align="center">
+Repositório para listar meus repositórios de aulas, desafios e projetos feitos no Ignite - Trilha ReactJS.
 </p>
 
-<p align="left">
-  🦄 Linguagem: <strong>Javascript.</strong>
-</p>
 
-<p align="left">
-  🦄 Trilha: <strong>ReactJS</strong>
-</p>
 
-<p align="left">
-  💼 Ferramentas: <strong>VSCode</strong>
-</p>
+### Desafios
 
-<p align="left">
-  💌 CONTATO: ⤵️
-</p>
-
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-manoel-b881961b2/" /></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p> 
+- [Desafio 01 - Conceitos do React](https://github.com/Felipe-Masil/episode1-toDoList)
+- [Desafio 02 - Componentizando a aplicação](https://github.com/Felipe-Masil/episode1-complementaryChallenge)
